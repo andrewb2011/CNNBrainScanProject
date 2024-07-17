@@ -9,7 +9,7 @@
 - Shayan Akhoondan - [@Shayan414](https://www.github.com/Shayan414)
 - Shahbozbek Hakimov - [@ShahbozbekH](https://www.github.com/ShahbozbekH)
 - Andrew Ballard - [@andrewb2011](https://www.github.com/andrewb2011)
-- Krish Naik - []()
+- Krish Naik - [@KrishNaik707](https://www.github.com/KrishNaik707)
 
 
 
