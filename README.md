@@ -7,7 +7,7 @@
 ## Authors
 
 - Shayan Akhoondan - []()
-- Shahbozbek Hakimov - []()
+- Shahbozbek Hakimov - [@ShahbozbekH](https://www.github.com/ShahbozbekH)
 - Andrew Ballard - [@andrewb2011](https://www.github.com/andrewb2011)
 - Krish Naik - []()
 
