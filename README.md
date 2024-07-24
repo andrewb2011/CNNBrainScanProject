@@ -16,6 +16,8 @@
 ## Dataset
 
 https://drive.google.com/file/d/1zEgzBlTUDzCWpDOSutfyRCcPhbux0rPV/view
+Download this dataset. This in Google Collab, drag and drop the zip file in the file directory on the right of the screen, then run first code block.
+This will unzip the folder.
 ## Tech Stack
 
 **Language:** Python3
