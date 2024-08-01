@@ -6,10 +6,10 @@
 
 ## Authors
 
-- Shayan Akhoondan - []()
-- Shahbozbek Hakimov - []()
+- Shayan Akhoondan - [@Shayan414](https://www.github.com/Shayan414)
+- Shahbozbek Hakimov - [@ShahbozbekH](https://www.github.com/ShahbozbekH)
 - Andrew Ballard - [@andrewb2011](https://www.github.com/andrewb2011)
-- Krish Naik - []()
+- Krish Naik - [@KrishNaik707](https://www.github.com/KrishNaik707)
 
 
 
@@ -41,33 +41,20 @@ To use the dataset and code in Google Collab:
 Medical misdiagnosis and malpractice are increasing concerns, with overworked professionals sometimes making errors. This project aims to provide radiologists with an assistive tool to diagnose brain tumors using a machine learning model trained on real-life MRI image data. This model serves as a reliable second opinion, reducing the risk of human error and ensuring timely and accurate diagnoses.
 
 ### Data/Benchmark Description
-We utilized two labeled image sets from Kaggle. The primary dataset is split into training (80%) and testing (20%) sets, containing around 6000 and 2000 images respectively, of normal brains and brains with tumors. A secondary dataset, with 3200 images, is used to evaluate the model's performance on unseen data.
+We utilized two labeled image sets from Kaggle. The primary dataset is split into training (80%) and testing (20%) sets, containing around 6000 and 2000 images respectively, of normal brains and brains with tumors. A second dataset, with 3200 images, is used to evaluate the model's performance on other data.
 
 ### Main Approach/Algorithms Used
-We implemented a Convolutional Neural Network (CNN) using the TensorFlow library due to its strong pattern recognition capabilities in image processing tasks. Additional libraries such as NumPy and Matplotlib were used for data manipulation and visualization.
+We implemented a Convolutional Neural Network (CNN) using the TensorFlow library due to its strong pattern recognition capabilities for processing images. Additional libraries such as NumPy and Matplotlib were used for data manipulation and visualization.
 
 ### Result Highlight
-Our model achieved high accuracy in detecting brain tumors, demonstrating its potential as a reliable diagnostic tool. The scalability and runtime were optimized to ensure the model could process large datasets efficiently.
-
-### Improvements after the Last Presentation
-Based on feedback from the last presentation, we made several improvements:
-- Enhanced the CNN architecture for better performance.
-- Improved data augmentation techniques to increase the robustness of the model.
-- Optimized the model's runtime and scalability.
-
-## Problem Statement and Data/Benchmark Description
-
-### Problem Statement
-Misdiagnosis in the medical field can have severe consequences, and overworked doctors are more prone to making errors. A second opinion is often sought, but this can be time-consuming. Our project aims to develop a machine learning model that provides an immediate second opinion on MRI scans, assisting doctors in making accurate diagnoses and reducing the risk of malpractice.
+Our model achieved high accuracy in detecting brain tumors, demonstrating its potential as a reliable diagnostic tool. The scalability and runtime were optimized to ensure the model could process large datasets better.
 
 ### Data/Benchmark Description
 We used two labeled image sets from Kaggle:
 1. **Primary Dataset**: Contains approximately 6000 training images and 2000 testing images, split into subfolders for normal brains and brains with tumors. Images are in JPEG format.
-2. **Secondary Dataset**: Contains about 3200 images for evaluating the model's performance on unseen data.
+2. **Secondary Dataset**: Contains about 3200 images for evaluating the model's performance on outside data.
 
 The datasets provide a comprehensive benchmark for training and testing the model's accuracy and robustness.
-
-## Approaches, Algorithms, and Programming Tools Used
 
 ### Approaches and Algorithms
 Our primary approach was to use a Convolutional Neural Network (CNN) due to its efficacy in image pattern recognition. The steps included:
@@ -84,9 +71,11 @@ Our primary approach was to use a Convolutional Neural Network (CNN) due to its 
 
 ### Source Code Structure
 The source code is organized as follows:
-- **Data Loading and Preprocessing**: Scripts for loading, normalizing, and augmenting the image data.
-- **Model Definition and Training**: Scripts for defining the CNN architecture and training the model.
-- **Evaluation and Visualization**: Scripts for evaluating the model's performance and visualizing the results.
+- **Import Libraries and Data**:
+- **Model Setup and Data Augmentation**:
+- **Model Traning and Validation Results**: 
+- **Model Evaluation on Test Dataset w/ Various Trends**: 
+- **Model Evaluation on Outside Dataset w/ Various Trends**: 
 
 ### System Diagram
 ```plaintext
