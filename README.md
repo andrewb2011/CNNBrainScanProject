@@ -32,7 +32,7 @@ To use the dataset and code in Google Collab:
 
 **Development:** Google Collab
 
-**Libraries:** Tensorflow, Numbpy, MatPlotLib
+**Libraries:** Tensorflow, Numpy, MatPlotLib
 
 
 ## Project Overview
