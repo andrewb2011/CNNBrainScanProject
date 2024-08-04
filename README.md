@@ -20,10 +20,10 @@ The dataset used for this project can be downloaded from [this link](https://dri
 
 To use the dataset and code in Google Collab:
 1. Download the dataset from the link above
-2. Open the code in a Google Collab environment
+2. Open the notebook in a Google Collab environment
 3. Drag the zip file in the file directory on the left side of Google Collab
-4. Wait a few minutes for the folder to upload. There should be a circle progress bar at the bottom of the file directory
-5. Once the file is uploaded. You can run the code blocks as necessary.
+4. Wait a few minutes for the folder to upload. There should be a circle-shaped progress bar at the bottom of the file directory.
+5. Once the file is uploaded you can run the code blocks as necessary.
 
    
 ## Tech Stack
