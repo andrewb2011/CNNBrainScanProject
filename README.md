@@ -77,13 +77,6 @@ The source code is organized as follows:
 - **Model Evaluation on Test Dataset w/ Various Trends**: 
 - **Model Evaluation on Outside Dataset w/ Various Trends**: 
 
-### System Diagram
-```plaintext
-+------------------+      +-----------------+      +------------------+
-|   MRI Image Data | ---> | Data Preprocessing | ---> |  CNN Training   | 
-+------------------+      +-----------------+      +------------------+
-                                                                 |
-                                                                 v
-                                                       +------------------+
-                                                       | Model Evaluation |
-                                                       +------------------+
+
+
+
